@@ -1,0 +1,17 @@
+div.wrapper_custom {
+    position: relative;
+    border: 2px solid cornflowerblue;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 20px 10px 10px;
+  }
+  div.wrapper_custom label {
+    color: white;
+    line-height: 30px;
+    padding: 0 5px;
+    position: absolute;
+    background-color: cornflowerblue;
+    /* Adjust these values to posiytion the title or label */
+    top: -15px;
+    left: 10px;
+  }
